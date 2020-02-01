@@ -43,7 +43,9 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.List;
 
-
+/**
+ * testGit
+ */
 public class CameraActivity extends AppCompatActivity implements View.OnClickListener, OptionView.Callback {
 
     private final static CameraLogger LOG = CameraLogger.create("DemoApp");
