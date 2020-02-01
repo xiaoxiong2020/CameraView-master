@@ -45,6 +45,7 @@ import java.util.List;
 
 /**
  * testGit
+ * from hp t23:19
  */
 public class CameraActivity extends AppCompatActivity implements View.OnClickListener, OptionView.Callback {
 
